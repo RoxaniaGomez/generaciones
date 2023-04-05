@@ -4,7 +4,7 @@ _ejercicio de generaciones_
 
 
 _Puede verlo a traves de netlify_
-#### enlace de netlify
+#### https://generaciones-roxania.netlify.app/
 
 ## Construido con 🛠️
 
